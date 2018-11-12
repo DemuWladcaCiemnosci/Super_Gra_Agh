@@ -13,13 +13,13 @@ Diamentowa zbroja
 Kryształowa dzida
 Pchnięcie dzidą
 Zbroja niedżwiedzia
-Francuzka kusza
+Francuska kusza
 wystrzelenie strzały
-Papierowa tuniika
+Papierowa tunika
 Lodowa maczuga
 Cios maczugą
 Nefrytowa zbroja
-Tasak rzeżnika
+Tasak rzeźnika
 Cięcie tasakiem
 Zbroja Lancelota
 ...
@@ -37,10 +37,10 @@ Zaklęcie zapalające
 Płomienny płaszcz
 Dzida Przeznaczenia
 Zaklęcie Tysiąca Igieł
-Peleryna niewitka
+Peleryna niewidka
 Różdżka Maga Północy
 Zaklęcie zamrażające
-Płaszcz ze smoczych łusk
+Płaszcz ze smoczych łusek
 Kostuch Wycieńczenia
 Zaklęcie wycieńczające
 Szata Kameleona
@@ -71,4 +71,5 @@ Rzut szurikenem
 Perska tunika
 Zatruty miecz
 Cios zatrutym mieczem
-Szata ze skóry Kobry...
+Szata ze skóry Kobry
+...
