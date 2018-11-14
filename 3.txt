@@ -42,7 +42,7 @@ Podnosisz z ziemi obiecuj*aco wygl*adaj*acy sztylet.\nSprawdzasz ostro*s*c i nat
 15
 None
 Podejd*x do *sciany
-Na *scianie wisi sporo r*o*znego rodzaju plan*ow zwi*azanych z kuciem broni.\nUdaje ci si*e cz*e*s*c zapami*eta*c.\nJe*sli uda ci si*e wydosta*c b*edziesz m*og*lje okazyjnie sprzedać.
+Na *scianie wisi sporo r*o*znego rodzaju plan*ow zwi*azanych z kuciem broni.\nUdaje ci si*e cz*e*s*c zapami*eta*c.\nJe*sli uda ci si*e wydosta*c b*edziesz m*og*l je okazyjnie sprzedać.
 20
 0
 None
@@ -281,7 +281,7 @@ Skarbcu
 Wzmacniane, masywne drzwi
 Rozgl*adasz si*e dooko*la. Blask sztabek z*lota a*z Cię o*slepia.\nDobrze, że zawsze nosisz ze sobą dodatkową torbę na takie fanty.
 Rab*oj sztaby
-Niestety nic nie jest takie proste. Zza naro*znika wychodzi wartownik. Od razu dostaje sztabą w twarz\nRaczej nie przystaniesz na propozycj*e p*o*l na p*o*l.
+Niestety nic nie jest takie proste. Zza naro*znika wychodzi wartownik. Od razu dostaje sztabą w twarz.\nRaczej nie przystaniesz na propozycj*e p*o*l na p*o*l.
 20
 0
 None
@@ -314,7 +314,7 @@ W garderobie nie znajdujesz nic opr*ocz ubra*n. Kto by si*e spodziewa*l…
 0
 None
 Zbadaj Toaletk*e
-Na Toaletce stoi du*ze lustro. Przegl*adasz po kolei szufladki z bi*zuteri*a i zastanawiasz si*e do kogo mog*la nale*ze*c zanim zaczęły należeć do Ciebie.\nNie musisz d*lugo czeka*c na odpowied*x,\nbo nagle pojawia si*e duch oburzonej kr*olowej. 
+Na Toaletce stoi du*ze lustro. Przegl*adasz po kolei szufladki z bi*zuteri*a i zastanawiasz si*e do kogo mog*la nale*ze*c zanim zaczęła należeć do Ciebie.\nNie musisz d*lugo czeka*c na odpowied*x,\nbo nagle pojawia si*e duch oburzonej kr*olowej. 
 0
 0
 Duch kr*olowej
