@@ -232,8 +232,7 @@ Zmieniasz jednak zdanie. Mycie nie jest dla Ciebie.
 None
 Cmentarz
 Okute *zelazem drzwi
-Wychodzisz na *swie*ze powietrze. Znajdujesz si*e na pewnego rodzaju dziedzi*ncu poro*sni*etym wysok*a traw*a.\nWszystko dooko*la jest jakby szare, bez *zycia.\nNagle dostrzegasz, *ze z ziemi wystaj*a krzy*ze.\nTo nie mo*ze by*c nic innego. To cmentarz…
-Podejd*x do najbli*zszego grobu, może jeszcze nikt go nie splądrował.\nPodchodzisz powoli i nic si*e nie dzieje…
+Wychodzisz na *swie*ze powietrze. Znajdujesz si*e na pewnego rodzaju dziedzi*ncu poro*sni*etym wysok*a traw*a.\nWszystko dooko*la jest jakby szare, bez *zycia.\nNagle dostrzegasz, *ze z ziemi wystaj*a krzy*ze.\nTo nie mo*ze by*c nic innego. To cmentarz…\nPodejd*x do najbli*zszego grobu, może jeszcze nikt go nie splądrował.\nPodchodzisz powoli i nic si*e nie dzieje…
 Podejd*x do dalszego grobu
 Nagle p*lyta grobu, którą właśnie miałeś podnieść, odsuwa si*e, a ze *srodla wychodzi nieumar*ly.
 0
