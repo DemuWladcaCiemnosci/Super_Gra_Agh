@@ -22,6 +22,9 @@ Nefrytowa zbroja
 Tasak rzeźnika
 Cięcie tasakiem
 Zbroja Lancelota
+Buława
+Cios buławą
+Pancerz Pazia
 ...
 Różdżka lipowa
 Zaklęcie unieruchamające
@@ -47,6 +50,12 @@ Szata Kameleona
 Laska Dusz
 Klątwa defragmentacji duszy
 Peleryna z dużym 'S' w diamencie
+Różdżka czasu
+Zaklęcie pętli czasu
+Toga Mistrza
+Różdżka Zaklinacza
+Atak okolicznych zwierząt
+Toga Zaklinacza
 ...
 Sztylet Brutusa
 Dźgnięcie sztyletem
@@ -72,4 +81,13 @@ Perska tunika
 Zatruty miecz
 Cios zatrutym mieczem
 Szata ze skóry Kobry
+Bicz
+Cios biczem
+Skórzana zbroja
+Noże do rzucania
+Rzut nożem
+Pancerz Langusty
+Haki Modliszki
+Atak modliszki
+Kostium Modliszki
 ...
